@@ -222,6 +222,10 @@ a {
     color: #ffffff;
 }
 
+.text-black {
+    color: black;
+}
+
 /* ANCHOR BUTTON */
 
 .btn {
